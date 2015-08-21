@@ -1,14 +1,14 @@
 {
-  "name": "mongooo",
+  "name": "mongo-string-cli",
   "version": "1.0.0",
-  "repository": "peteyy/mongooo",
+  "repository": "peteyy/mongo-string-cli",
   "description": "Converts your mongoose connection string to mongo-cli command",
-  "main": "bin/mongooo",
+  "main": "bin/mongo-string-cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "preferGlobal": true,
-  "author": "Peter Czibik",
+  "author": "Peter Czibik <p.czibik@gmail.com> (http://twitter.com/peteyycz)",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.8.1",
