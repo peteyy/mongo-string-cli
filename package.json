@@ -1,6 +1,6 @@
 {
   "name": "mongo-string-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "peteyy/mongo-string-cli",
   "description": "Converts your mongoose connection string to mongo-cli command",
   "main": "./bin/mongo-string-cli",
